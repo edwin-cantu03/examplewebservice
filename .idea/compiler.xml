@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="src" target="11" />
+      <module name="WebService" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
